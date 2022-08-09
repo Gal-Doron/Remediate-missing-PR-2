@@ -1,0 +1,8 @@
+requests==2.25.1
+pytest==6.2.2
+jira==2.0.0
+bottle==0.12.18
+fpdf==1.7.2
+Jinja2==2.11.3
+django==3.2.10
+ganga==8.5.9
