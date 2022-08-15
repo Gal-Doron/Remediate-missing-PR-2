@@ -1,5 +1,5 @@
 requests==2.25.1
-pytest==6.2.2
+pytest==7.1.2
 jira==2.0.0
 bottle==0.12.18
 fpdf==1.7.2
